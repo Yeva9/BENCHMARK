@@ -2,17 +2,11 @@ using namespace std;
 
 
 void BubbleSortByBagratid(int size, int* array);
-
 void QuickSortByBagratid(int size, int* array);
-
 void SelectionSortByBagratid(int size, int* array);
-
 void InsertionSortByBagratid(int size, int* array);
-
 void ShellSortByBagratid(int size, int* array);
-
 void HeapSortByBagratid(int size, int* array);
-
 void MergeSortByBagratid(int size, int* array);
 
 void Swap(int& value1, int& value2) {
